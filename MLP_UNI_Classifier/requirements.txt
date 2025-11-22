@@ -1,0 +1,5 @@
+torch>=2.0
+numpy
+scikit-learn
+# (PIL 如果 inference_script.py 未来需要处理原始图像，当前不需要)
+# (torchvision 如果 inference_script.py 未来需要 transforms，当前不需要)

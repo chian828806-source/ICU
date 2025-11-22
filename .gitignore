@@ -1,0 +1,4 @@
+archive/
+config.json
+# 忽略巨大的 PyTorch 模型文件
+pytorch_model.bin
