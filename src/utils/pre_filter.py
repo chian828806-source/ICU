@@ -1,4 +1,3 @@
-# File: wsi_filter.py
 import os
 import numpy as np
 import cv2  # pip install opencv-python
@@ -81,10 +80,7 @@ class WSIFilter:
 
         return valid_patches, grid_ratios
 
-# ==============================================================================
-# 单元测试 / 可视化模块
-# 只有直接运行此文件时才会执行，被import时不会执行
-# ==============================================================================
+# 单元测试模块 
 if __name__ == "__main__":
     # 测试用的 WSI 路径
     TEST_WSI_PATH = r"archive\ICIAR2018_BACH_Challenge\ICIAR2018_BACH_Challenge\WSI\A01.svs"

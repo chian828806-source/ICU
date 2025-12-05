@@ -1,0 +1,10 @@
+{
+  "uni_checkpoint_dir": "./checkpoints/uni_model",
+  "mlp_weights_path": "./checkpoints/mlp_classifier/weights.pth",
+  "scaler_path": "./checkpoints/mlp_classifier/scaler.pkl",
+  
+  "openslide_bin_path": "S:\\Openslide\\openslide-win64\\openslide-bin-4.0.0.8-windows-x64\\bin",
+  
+  "output_dir": "./output",
+  "device": "cuda"
+}

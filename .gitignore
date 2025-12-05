@@ -2,3 +2,7 @@ archive/
 config.json
 # 忽略巨大的 PyTorch 模型文件
 pytorch_model.bin
+暂时无用/
+汇总.zip
+ICU.zip
+赛题3相关模板/
